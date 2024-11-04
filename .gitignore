@@ -1,0 +1,4 @@
+# MP4 Video Files
+*.mp4
+# Everything in /starter_code/venv/
+/starter_code/venv/
