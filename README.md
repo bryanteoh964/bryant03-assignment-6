@@ -33,6 +33,23 @@ This project explores how random data can influence linear regression results, p
    - N = 500, μ = 0, σ² = 1, S = 1000
    - Shows how larger samples provide more stable results
 
+## Generated Plots
+Here are example plots generated with the following parameters:
+- N = 50
+- μ = 10
+- σ² = 1
+- S = 1000
+
+### Scatter Plot with Regression Line
+<p align="center">
+  <img src="starter_code/static/plot1.png" width="600">
+</p>
+
+### Histogram of Slopes and Intercepts
+<p align="center">
+  <img src="starter_code/static/plot2.png" width="600">
+</p>
+
 ## Key Insights
 - Sample size and variance both significantly affect the reliability of regression estimates
 - Even with no true relationship, random chance can create apparent patterns
